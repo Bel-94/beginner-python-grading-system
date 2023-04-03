@@ -1,2 +1,0 @@
-In this example, we use a for loop to prompt the user for grades for each subject. We use a try-except block to check if the input is valid (i.e., a number between 0 and 100). If the input is valid, we add it to a running total of grades and increment the number of subjects. 
-After the loop, we calculate the average grade by dividing the total grade by the number of subjects. If no valid grades were entered, we output an appropriate message.
